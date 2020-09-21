@@ -8,4 +8,4 @@ Nextjs demo using reqres.in API
 ### 2. `npm run dev`
 
 
-Visit demo project:  https://nextjs-demo-phi-sooty.vercel.app/
+Visit demo project:  https://nextjs-demo-plum.vercel.app/
